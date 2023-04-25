@@ -1,0 +1,12 @@
+body, button{
+    background-color: darkslateblue;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    font-family: monospace;
+}
+
+button {
+    background-color: white;
+    color: darkslateblue;
+}
