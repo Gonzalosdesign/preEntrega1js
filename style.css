@@ -1,9 +1,10 @@
 body, button{
     background-color: darkslateblue;
     color: white;
+    font-family: monospace;
+    font-size: larger;
     text-align: center;
     padding: 1%;
-    font-family: monospace;
     margin: 1%;
 }
 
@@ -15,4 +16,5 @@ button {
 
 button:hover {
     box-shadow: -10px 10px black;
+    font-weight: lighter;
 }
