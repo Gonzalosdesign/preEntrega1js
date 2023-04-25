@@ -4,9 +4,15 @@ body, button{
     text-align: center;
     padding: 1%;
     font-family: monospace;
+    margin: 1%;
 }
 
 button {
     background-color: white;
     color: darkslateblue;
+    font-weight: bolder;
+}
+
+button:hover {
+    box-shadow: -10px 10px black;
 }
