@@ -115,10 +115,9 @@ function vender(){
 
 // EJECUCIÓN -------------------------------------------------------------------
 
-// Para empezar vamos a ver unos mensajes de bienvenida y el stock previo
+//El programa inicia con la llamada a la función importar() con el evento click en el botón del html
+
+// Vamos a ver unos mensajes de bienvenida y el stock previo
 console.log(`Bienvenido al simulador de logistica`);
 console.log(`el stock previo es: ${stock}`);
 console.log(`Se le solicitarán los datos de la importación`);
-
-//Llamada a la funcion que inicia el proceso
-//importar();
